@@ -91,7 +91,6 @@ if __name__ == '__main__':
 
         screen.blit(g_player_unlocked, (player.x_cord, player.y_cord))
 
-        print(player.movement)
         player.move()
 
         events = pygame.event.get()
