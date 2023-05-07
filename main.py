@@ -41,13 +41,6 @@ class Weapon:
         #actions to execute
         Weapon.all.append(self)
 
-
-    #def calculate_total_price(self):
-        #return (self.price)*(self.quantity)
-
-    #def apply_discount(self):
-        #self.price = self.price * self.pay_rate
-
 class Entity:
     all = []
 
