@@ -7,9 +7,6 @@ import random
 # ^ THE HOLY CODE
 
 
-
-#my git is f'ed up
-
 class Weapon:
 
     all = []
