@@ -8,7 +8,7 @@ import random
 
 
 
-
+#my git is f'ed up
 
 class Weapon:
 
