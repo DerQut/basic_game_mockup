@@ -117,4 +117,4 @@ if __name__ == '__main__':
                 elif (event.key == pygame.K_RIGHT and player.movement[0] == 1) or (event.key == pygame.K_LEFT and player.movement[0] == -1):
                     player.movement[0] = 0
 
-        pygame.display.flip()
+        pygame.display.update()
